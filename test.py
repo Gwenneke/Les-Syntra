@@ -1,1 +1,2 @@
-def ddJKD
+def mijn_naam ():
+    
